@@ -1,2 +1,0 @@
-# IndomableSpirit
-Sport wear project
